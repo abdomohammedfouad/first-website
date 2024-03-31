@@ -306,7 +306,7 @@ float: left;
 margin-bottom:20px ;
 border: 2px solid gray;
 position: relative;
-padding: 40px 60px 40px 80px;
+padding: 40px 80px 40px 80px;
 
 }
 .offer-item.mg{
@@ -314,16 +314,16 @@ padding: 40px 60px 40px 80px;
 }
 .offer-item .icon-2{
     position: absolute;
-top: 30px;
+top: 50px;
 left: 20px;
 color: rgb(61, 163, 227);
-font-size: 27px;
+font-size: 30px;
 }
 .offer-term{
-font-size: 15px;
+font-size: 30px;
 margin-top: 10px;
 color: grey;
-font-size: 15px;
+font-size: 18px;
 line-height: 1.6;
 }
 .offer-title{
